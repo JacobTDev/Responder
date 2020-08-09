@@ -1,3 +1,5 @@
+-- FIXME: No blip sprites on map and 100s of them (bug?)
+
 in_locker_room = false
 
 local config = {}
