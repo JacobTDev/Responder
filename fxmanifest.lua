@@ -7,8 +7,8 @@ version "0.0.0"
 
 client_scripts {
   "@warmenu/warmenu.lua",
-  "client/cl_utils.lua"
-}
-
-server_scripts {
+  "client/cl_config.lua",
+  "client/cl_utils.lua",
+  "client/cl_core.lua",
+  "client/cl_locker_room.lua"
 }
